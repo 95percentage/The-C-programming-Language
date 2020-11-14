@@ -1,4 +1,4 @@
-# The-C-programming-Language
+# The-C
 
 I'm a beginner who Learn C language and its algorithms.
 
